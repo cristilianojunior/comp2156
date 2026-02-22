@@ -7,9 +7,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\"",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -21,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/cristilianojunior/comp2156/issues"
   },
-  "homepage": "https://github.com/cristilianojunior/comp2156#readme",
+  "homepage": "https://cristilianojunior.github.io/comp2156",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
