@@ -1,5 +1,8 @@
 name: CI - Build and Deploy SPA
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
@@ -19,9 +22,9 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Clean install dependencies
-        run: npm ci
-        # npm ci faz uma instalação limpa baseada no package-lock.json
+      - name: Install dependencies
+        run: npm install
+        shell: bash
 
       - name: Build project
         run: npm run build
