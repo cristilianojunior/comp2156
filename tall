@@ -1,0 +1,18 @@
+* [33m5247b402[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdep-inclusions[m[33m, [m[1;31morigin/dep-inclusions[m[33m)[m Resolve conflict in package-lock.json
+* [33m0c432653[m Setup GitHub Actions CI/CD
+* [33mc6ec7a95[m including application source
+* [33mc2166a0f[m adding our dependency lock file
+* [33md2c0f4de[m added project dependencies to our package.json
+* [33mf749369a[m Build folder created
+* [33m50cc7378[m Nodejs project created
+* [33md29ae889[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Update repo
+* [33mab881ef1[m package json added
+*   [33m9b7ff3af[m Merge branch 'main' of https://github.com/cristilianojunior/comp2156
+[32m|[m[33m\[m  
+[32m|[m * [33m25d9cb38[m Update ci.yml
+* [33m|[m [33m731c7d45[m update
+[33m|[m[33m/[m  
+* [33m2aa33e93[m Rename blank.yml to ci.yml
+* [33mdcbd40f4[m Workflow github actions blank.yml
+* [33mfa3813cb[m Update README.md
+* [33m54200be2[m Initial commit

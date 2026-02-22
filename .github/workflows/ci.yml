@@ -1,4 +1,4 @@
-name: CI - Build and Deploy SPA
+name: CI - Build and Deploy React SPA
 
 permissions:
   contents: write
@@ -30,8 +30,9 @@ jobs:
         run: npm run build
         shell: bash
 
-      - name: Copy index to 404 (SPA fix)
+      - name: Copy index.html to 404.html
         run: cp build/index.html build/404.html
+        shell: bash
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
