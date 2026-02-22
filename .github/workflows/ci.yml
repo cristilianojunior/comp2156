@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - dep-inclusions
 
 jobs:
   build-and-deploy:
