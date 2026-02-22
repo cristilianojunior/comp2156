@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cristilianojunior/comp2156/static/css/main.27ca76a1.css",
+    "main.js": "/cristilianojunior/comp2156/static/js/main.ca245cd1.js",
+    "static/js/453.587ded94.chunk.js": "/cristilianojunior/comp2156/static/js/453.587ded94.chunk.js",
+    "index.html": "/cristilianojunior/comp2156/index.html",
+    "main.27ca76a1.css.map": "/cristilianojunior/comp2156/static/css/main.27ca76a1.css.map",
+    "main.ca245cd1.js.map": "/cristilianojunior/comp2156/static/js/main.ca245cd1.js.map",
+    "453.587ded94.chunk.js.map": "/cristilianojunior/comp2156/static/js/453.587ded94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.ca245cd1.js"
+  ]
+}
